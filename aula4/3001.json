@@ -1,0 +1,19 @@
+{
+    "number_of_sensors": 6,
+    "sensorid": 3001,
+    "sensornum": 1,
+    "type_of_sensor": "cardiac",
+    "patient": {
+        "patientid": 101,
+        "patientname": "Rui Turquel",
+        "patientbirthdate": "1953-10-20",
+        "patientage": 65
+    },
+    "bodytemp": 40,
+    "bloodpress": {
+        "systolic": 138,
+        "diastolic": 89
+    },
+    "bpm": 98,
+    "timestamp": "2019-10-16 08:29:08"
+}
