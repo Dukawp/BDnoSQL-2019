@@ -18,7 +18,7 @@ Mestrado Integrado em Engenharia Informática
 
 - [**Aula 3**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula3) Introdução ao PL/SQL
 
-- [**Aula 4**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula4) Monitorização em tempo real | Base de dados | API REST
+- [**Aula 4**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula4) Planeamento e Desenho de Base de Dados
 
 - [**Aula 5**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula5) Introdução ao MongoDB
 
