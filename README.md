@@ -13,7 +13,11 @@ Mestrado Integrado em Engenharia Informática
 ## Descrição das aulas
 
 - [**Aula 1**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula1) Planeamento e Desenho de Bases de Dados Relacionais
-  - Modelos | Diagrama ER | Entidades | Atributos | Relacionamentos
+  - Modelos
+  - Diagrama ER 
+  - Entidades
+  - Atributos
+  - Relacionamentos
 
 - [**Aula 2**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula2) Introdução ao DBMS Oracle
 
