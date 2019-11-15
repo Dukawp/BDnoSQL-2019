@@ -25,8 +25,13 @@ Mestrado Integrado em Engenharia Informática
   - Oracle
 
 - [**Aula 3**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula3) Introdução ao PL/SQL
+  - Triggers
+  - Procedures
+  - Functions
+  - Sequences
 
 - [**Aula 4**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula4) Planeamento e Desenho de Base de Dados
+  -
 
 - [**Aula 5**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula5) Introdução ao MongoDB
 
