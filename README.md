@@ -36,6 +36,9 @@ Mestrado Integrado em Engenharia Informática
   - API REST
 
 - [**Aula 5**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula5) Introdução ao MongoDB
+  - MongoDB
+  - Bases de Dados Documentais
+  - CRUD
 
 - [**Aula 6**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula6) MongoDB
 
