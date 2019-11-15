@@ -20,6 +20,9 @@ Mestrado Integrado em Engenharia Informática
   - Relacionamentos
 
 - [**Aula 2**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula2) Introdução ao DBMS Oracle
+  - Modelo Físico
+  - Pluggable Databases
+  - Oracle
 
 - [**Aula 3**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula3) Introdução ao PL/SQL
 
