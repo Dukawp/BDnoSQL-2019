@@ -1,0 +1,45 @@
+---#1---
+MATCH (cs:Customer)-[:ADDED_TO_WISH_LIST|:VIEWED|:BOUGHT]->(:Product)-[:IS_IN]->(:Category) RETURN cs
+
+### MOVIES ###
+
+---1---
+MATCH (name)-[r:ACTED_IN]->(filme:Movie)
+WHERE filme.title = 'The Matrix'
+RETURN r.roles
+
+---2---
+MATCH (ator:Person)-[:ACTED_IN]->(filme:Movie)
+WHERE ator.name = 'Tom Hanks'
+RETURN filme.title
+
+---3---
+MATCH (ator:Person)-[:ACTED_IN]->(filme:Movie)
+WHERE ator.name = 'Tom Hanks' AND filme.released>2000
+RETURN filme.title
+
+---4---
+MATCH (diretor:Person)-[:DIRECTED]->(filme:Movie)<-[:ACTED_IN]-(diretor)
+RETURN diretor.name
+
+---5---
+MATCH (ator:Person)-[r:ACTED_IN]->(filme:Movie)
+WHERE (ator.name = 'Keanu Reeves') AND ('Neo' IN r.roles)
+RETURN filme.title
+
+---6---
+MATCH (diretor:Person)-[:DIRECTED]->(filme:Movie)<-[:ACTED_IN]-(ator:Person)
+RETURN ator.name AS Ator, collect(DISTINCT diretor.name) AS Diretor
+
+---7---
+MATCH (ator:Person)-[:ACTED_IN]->(filme:Movie)
+RETURN ator.name AS Ator, count(filme) AS NFilme
+
+---8---
+MATCH (diretor:Person)-[:DIRECTED]->(filme:Movie)<-[:ACTED_IN]-(ator:Person)
+RETURN ator.name AS Ator, diretor.name AS Diretor, count(filme) AS NFilmes
+
+---9---
+MATCH (diretor:Person)-[:DIRECTED]->(filme:Movie)<-[:ACTED_IN]-(ator:Person)
+RETURN ator.name AS Ator, count(filme) AS NFilmes
+ORDER BY NFilmes DESC LIMIT 5
