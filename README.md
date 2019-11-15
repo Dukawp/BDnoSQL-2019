@@ -41,8 +41,14 @@ Mestrado Integrado em Engenharia Informática
   - CRUD
 
 - [**Aula 6**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula6) MongoDB
+  - Monitorização em tempo real
+  - Base de dados
+  - API REST
 
 - [**Aula 7**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula7) Neo4J
+  - Graph Database
+  - neo4j
+  - Cypher
 
 ---
 
