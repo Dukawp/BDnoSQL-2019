@@ -24,5 +24,7 @@ Mestrado Integrado em Engenharia Informática
 
 - [**Aula 6**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula6) MongoDB
 
+- [**Aula 7**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula7) Neo4J
+
 ---
 
