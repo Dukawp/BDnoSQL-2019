@@ -22,6 +22,7 @@ Mestrado Integrado em Engenharia Informática
 
 - [**Aula 5**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula5) Introdução ao MongoDB
 
+- [**Aula 6**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula6) MongoDB
 
 ---
 
