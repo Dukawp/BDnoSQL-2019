@@ -31,7 +31,9 @@ Mestrado Integrado em Engenharia Informática
   - Sequences
 
 - [**Aula 4**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula4) Planeamento e Desenho de Base de Dados
-  -
+  - Monitorização em tempo real
+  - Base de dados
+  - API REST
 
 - [**Aula 5**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula5) Introdução ao MongoDB
 
