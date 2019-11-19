@@ -45,7 +45,7 @@ Mestrado Integrado em Engenharia Informática
   - Base de dados
   - API REST
 
-- [**Aula 7**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula7) Neo4J
+- [**Aula 6**](https://github.com/Dukawp/BDnoSQL-2019/tree/master/aula6) MongoDB
   - Graph Database
   - neo4j
   - Cypher
@@ -54,5 +54,6 @@ Mestrado Integrado em Engenharia Informática
 
 ## Projecto
 
+- [**Projecto**]() Project
 
 ---
